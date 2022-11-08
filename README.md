@@ -12,3 +12,5 @@ For the 6v dc motor we connect the +ve of each side together and the same for th
 For the Arduino mega, we use it because we need a large number of pins, to connect the LCD with the other component
 
 ![b2](https://user-images.githubusercontent.com/102859856/200693696-35d09035-aa92-4dbd-9b50-b35caaf5e28a.jpeg)
+
+![b3](https://user-images.githubusercontent.com/102859856/200694264-8eb9093a-c930-4af8-a8c6-99df072fb6dd.jpeg)
